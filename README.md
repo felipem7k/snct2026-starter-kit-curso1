@@ -6,4 +6,4 @@
 4. Salve (Ctrl+S) e atualize o navegador (F5) para ver a mudança.
 5. Troque o número do WhatsApp e publique no GitHub Pages.
 
-IFSC Câmpus Garopaba · Programação para a Internet 2
+IFSC Câmpus Garopaba · Programação para a Internet
